@@ -370,6 +370,8 @@ em {
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     box-shadow: #444444 5px 5px 5px;
+    -moz-box-shadow: #444444 5px 5px 5px;
+    -webkit-box-shadow: #444444 5px 5px 5px;
 }
 
 #targetNav {
@@ -384,6 +386,8 @@ em {
     background-color: ghostwhite;
     padding: .5em 1em;
     border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
     float: left;
     margin-right: .5em;
     border: 1px solid #a0a0a0;
@@ -391,6 +395,8 @@ em {
 
 #targetNav li.currentTarget a {
     box-shadow: inset #a0a0a0 2px 2px 2px;
+    -moz-box-shadow: inset #a0a0a0 2px 2px 2px;
+    -webkit-box-shadow: inset #a0a0a0 2px 2px 2px;
 }
 
 .scrollable {
@@ -441,6 +447,8 @@ em {
     -moz-border-radius: 5px;
     padding:.5em;
     box-shadow: gray 2px 2px 4px;
+    -moz-box-shadow: gray 2px 2px 4px;
+    -webkit-box-shadow: gray 2px 2px 4px;
 }
 
 #serviceBlocks nav {
